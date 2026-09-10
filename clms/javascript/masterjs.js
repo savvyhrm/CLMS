@@ -1,1 +1,1 @@
-$(document).ready(function () { alert('ok 1')}) 
+$(document).ready(function () { }) 
